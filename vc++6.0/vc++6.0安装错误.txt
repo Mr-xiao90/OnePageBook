@@ -1,0 +1,80 @@
+问题一：安装盘所在目录和安装后的目录的目录名不要包含中文字符，最好是纯英文。
+
+问题二：安装最后提示：   
+
+setup   was   unable   to   create   a   DCOM   user   account   in   order   to   register
+
+'D:\Program   Files\.......\valec.exe"，点OK之后安装失败.
+
+解决方法如下：
+
+右键我的电脑->管理->本地用户和组->用户->
+
+你会看见有一个VSA   Server   Account项//安装vs的时候设定的组件服务
+
+右键->删除它，不用管提示的那些废话
+
+重新安装你的vs，
+
+问题三：vc6.0安装失败和MSDEV.EXE启动失败问题解决方法！
+
+1.如果MSDEV.EXE启动失败首先确认你是不是装了VisualAssist，如果装了请卸载后并在注册表中删除注册信息再装vc6.0。
+
+2.如果最后提示vc6.0安装失败，首先可以把文件删干净并清除注册信息。然后装java虚拟机。如果还不行装的时候不要装vc中的性能分析工具！
+
+以上是本人血的教训总结出来的。。。。。
+
+如果上述原因皆无法解释，请重新安装系统
+
+问题四：  Thelanguage dll'vb6chs.dll'could not be found。问题
+
+解决方法：在安装文件夹中搜索 vb6chs.dll文件然后复制到
+
+c:windows\system32\文件夹中。也可以到已经安装好的
+
+vc60中拷贝一个到c:windows\system32\文件夹中。
+
+问题五：  Javasign.dll不能在系统注册数据库中注册问题。
+
+解决方法：到网站下载一个java虚拟机。安装即可。
+
+问题六：   Setup was unable to create a DCOM user account
+
+in order to register 'C:\Program Files\Microsoft
+
+Visual Studio\Common\Tools\VS-Ent98\Vanalyzr\valec.exe"
+
+解决方法：这是Visual Studio的一个BUG，只出现在Windows 2000/XP下。
+
+如果你不使用Visual Studio Analyzer，可以在安装时选择Custom，
+
+然后在Enterprise Tools中清除掉Visual Studio Analyzer。
+
+再安装就没有这个问题了。如果一定要使用Visual Studio Analyzer，
+
+可以在安装后在进行配置工作，参考微软的Knowledge Base的文章：
+
+“257413“ BUG: "Setup Was Unable to Create a DCOM User Account"
+
+Error Message in Visual Studio 6.0”。
+
+问题七：出现如下问题
+
+“A Previous ation of Visual SourceSafe was dateced at : D\\VC\\VSS”\"Select Yes to replace it with VSS6.0 or NO to  VSS 6.0 to its default location\" 点击Yes后出现up Error Message\"YOu must first run the Installation Wizard before running this up\"然后退出安装
+
+在网上搜索下也没有找到正确解决思路方法经本人实验后发现只需删除注册表中HKY_LOCAL_MACHINE\\SYSTEM|ControlSet001\\Services\\VSS即可
+
+原因:我可能是原先装了VC2005导致安装VC后卸载再安装可能也会导致这个问题吧
+
+运行不了
+不少用户在正常安装完成后遇到了不能运行的问题，这类情况大多发生在最新版本的win10或win8系统中，该如何让其运行呢？下面的解答
+
+1、安装完成后，选中左面的vc++6.0，右键点击属性，点击顶端的快捷方式，点击右下角打开文件位置
+
+2、打开后看见如图所示的vc++6.0的运行图标，选中后右键点击 重命名 在名字后面加个1，改成如图所示。
+
+3、然后右键点击 属性 ，选中顶端的 兼容性 ，然后勾选如图所示的 以兼容模式运行此程序，然后框中选择那种模式。最后勾选 以管理员身份运行此程序 ，点击确定
+
+4、然后双击重命名的那个运行程序就可以打开这个软件了，如果觉得不方便，就可以右键，选择固定到屏幕开始，以后就可以方便的运行了
+
+5、然后可以方便的在菜单里打开，然后打开试试，成功了。
