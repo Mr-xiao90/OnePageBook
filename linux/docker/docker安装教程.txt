@@ -1,0 +1,9 @@
+1.首先卸载机器上的旧版docker，如果没有就忽略
+2.安装仓库管理和驱动
+yum install -y yum-utils \ device-mapper-persistent-data \ lvm2
+3.添加源文件
+ yum-config-manager \ --add-repo \ https://download.docker.com/linux/centos/docker-ce.repo
+4.重建缓存
+yum makecache fast
+5.安装docker-ce
+yum install docker-ce docker-ce-cli containerd.io
