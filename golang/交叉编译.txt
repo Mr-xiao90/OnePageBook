@@ -1,0 +1,5 @@
+SET CGO_ENABLED=0
+SET GOARCH=amd64
+SET GOOS=linux
+
+scp -P port downloadimage root@173.82.208.87:/root/d
