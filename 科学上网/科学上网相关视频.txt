@@ -1,0 +1,116 @@
+【Siemens Tutorials】
+本视频主要介绍如何设置谷歌云防火墙规则、如何搭建V2ray+ws+tls科学上网节点、如何安装BBR加速模块以及如何安装使用电报代理。
+【欢迎订阅我的频道，谢谢】
+【我的使用的节点服务站1：https://is.gd/rNJPqX】
+【我的使用的节点服务站2：https://60ss.xyz】
+【科学上网相关视频如下】
+1：永久免费科学上网视频教程wireguard 和Tunsafe vpn：https://youtu.be/-VW65tVh5mY
+2：谷歌云重置方法：https://youtu.be/RXa_LT2-JAc
+3：Brook一键搭建实现科学上网：https://youtu.be/F1vfV11K5Ik
+4：4K免费机场节点分享：https://youtu.be/JrG7XBykvto
+5：谷歌云Wireguard搭建实现科学上网：https://youtu.be/D4S3WQQ8en8
+6：谷歌云加速器安装：https://youtu.be/LTgF3s5Wu5g
+7：谷歌云一键搭建SSR机场：https://youtu.be/e9Xwd4vadhA
+8：免费科学上网节点推荐：https://youtu.be/upp-rKFKLEw
+9：优质翻墙VPN软件推荐：https://youtu.be/yxUnfNT-c40
+10：谷歌官方永久有效科学上网方式：https://youtu.be/8zVeTi1npXI
+11：国外苹果ID注册方法：https://youtu.be/LKAXiGqK3Vc
+12:谷歌云V2RAY搭建方法：https://youtu.be/4GSX3h-e1Pc
+13：PuTTY与Xshell与谷歌云连接方法：https://youtu.be/v9aXF2oNFrQ
+14:V2Ray+Ws+TLS搭建教程1：https://youtu.be/pWWuFAqfreI
+15：V2Ray+Ws+TLS搭建教程2划重点：https://youtu.be/NMYJtv81nNA
+16：SS/V2RAY同一实例加速器安装：https://youtu.be/RqhzETNnsxU
+17：安卓手机端如何下载SS/V2RAY软件：https://youtu.be/fEf6RJCw0AI
+18：Brook和Shadowsocks共享实例节点创建和设置：https://youtu.be/q9B0bAo5fiU
+19：支持奈飞的机场：https://youtu.be/qv_6gpaRHec
+20：亚马逊Lightsail科学上网节点搭建：https://youtu.be/ubCiuZ5oELg
+21：EDU教育邮箱申请：https://youtu.be/N_cpRYZTbDM
+22:Office365免费套件获取以及GitHub学生包申请初试https://youtu.be/4EpHER4jRQI
+23：2019最新Trojan谷歌云一键搭建实现科学上网https://youtu.be/esr4bDuZj34
+24：Trojan安卓客户端配置简介https://youtu.be/Q5fe356BtEA
+25：10分钟免费建站 https://youtu.be/mFcVRs5VmIM
+26：2019年9月24日谷歌云无限重置保留VM实例与帐号 https://youtu.be/lw2z3WliOro
+27：360浏览器快速实现科学上网https://youtu.be/DeuV2LltTdI
+28：GFW谷歌云搭建实现科学上网https://youtu.be/l6wydG7Lui8
+29: GFW+CDN+Freenom 拯救被墙IPhttps://youtu.be/4nIbobwE-jQ
+30：谷歌云DAZE一键安装实现科学上网：https://youtu.be/ITlRXrX2VcI
+31：电报专用代理谷歌云一键搭建https://youtu.be/rbqVIAAIyjk
+32:谷歌云LinxVPS远程主机搭建实现科学上网https://youtu.be/ecCkR9_qPg4
+33：WP7U盘系统刻录https://youtu.be/N7vsrxVrS3E
+34：斐讯K2路由器刷Openwrt路由器固件https://youtu.be/MtZ374xDVug
+35：斐讯K2刷固件AC54U老毛子https://youtu.be/8P4lzEVM4gM
+36:DIY软路由系统编译环境搭建 https://youtu.be/uEmezbkKpXI
+37：DIY软路由系统编译源码连接下载https://youtu.be/-qL7tS8KNVk
+38:谷歌云创建服务器实现科学上网https://youtu.be/7tZwXVDSQKo
+39：利用GCP服务器对DIY软路由OPENWRT/LEDE固件进行设置编译https://youtu.be/MGqPx0VBi1I
+40：虚拟机上测试运行定制路由器固件https://youtu.be/kuN9-qagpUE
+41：DIY软路由固件虚拟机安装设置实现科学上网https://youtu.be/XC5fZUHF6Qw
+42：KoolShare软路由固件虚拟机平台搭建测试翻墙上油管https://youtu.be/cctB5n4rwPw
+43:GFW间歇性大面积封锁的应对建议https://youtu.be/o9KQlFPMgQQ
+44：让CDN起飞的V2ray节点搭建方法https://youtu.be/-edwIkIaAms
+45：V2ray+Http2+Tls科学上网节点搭建方法https://youtu.be/U18Voiq-y80
+46:VULTR VPS购买与SSR科学上网节点布署https://youtu.be/9W07ShyHflA
+47：KCPTUN谷歌云SSR/SS节点加速https://youtu.be/qaKYiAcAtvY
+48：一个临时邮箱领取谷歌VIP翻墙节点https://youtu.be/kJjqdd_xwrE
+49：BBRPLUS四合一最全的加速安装代码https://youtu.be/LYeP7zXrJds
+50：国际阿里云注册与购买选型https://youtu.be/k3naDxFbdNk
+51：国际阿里云SSR节点创建与设置https://youtu.be/v-rOZU_z86k
+52：谷歌云防火墙规则创建和PuTTY与Xshell如何连接谷歌云https://youtu.be/Q-TQNsiK8fg
+53：谷歌云Anyconet VPN科学上风搭建https://youtu.be/qsJ2-W-3IkQ
+54：谷歌云官方脚本搭建V2ray节点https://youtu.be/PMw5B9Uhcik
+55：免费注册领取12个月免费VPS使用权https://youtu.be/zUA1Wf47Zdg
+56:Putty+SSH连接VPS创建SSR和V2RAY+MKCP节点https://youtu.be/y-FqNueNrPk
+57：IF|假如|免费VPS出现乱扣费的个人解决之道建议https://youtu.be/BIIPrXfMtqw
+58：V2RAY+MKCP快速突破高延时封锁https://youtu.be/fHiJbIdPMr4
+59：如何注册免费VPS  https://youtu.be/vZg1Opajl50
+60：DigitalOcean数字海洋VPS搭建V2ray全平台支节点https://youtu.be/YtLeR2KlWE4
+61：科学上网SSR|SS最全科学上网谷歌云一键安装脚本https://youtu.be/8z41M6S1pgU
+62：2020年最新V2ray+WS+TLS谷歌云科学上网节点搭建https://youtu.be/Oi6tRHl980Y
+63：V2ray+websocket+Tls+Nginx谷歌云一键搭建https://youtu.be/GrHEVhGoqK0
+64：树莓派4系统安装教程https://youtu.be/GqxBdXPPiqc
+65：树莓派4b软路由安装设置https://youtu.be/hvlWL2Y74e4
+66：V2ray+WS+TLS出现SSL证书失败的解决建议方案https://youtu.be/TDaosa498ko
+67：如何挑选一家靠谱的机场与节点线路介绍和建议https://youtu.be/JK5eGP234FM
+68：免费科学上网节点站 https://youtu.be/FLDbxgKwUgY
+69：谷歌共享8EB云盘创建领取https://youtu.be/1bxltaOPStw
+70：谷歌云盘无需科学上网直链访问下载文件https://youtu.be/8y1ENeZ4A94
+71：2020年如何注册Freenom免费域名https://youtu.be/Bdb8tF2XwDA
+72：Aria2+Rclone离线下载谷歌云盘文件https://youtu.be/_dUJsApeTYw
+73：2020年阿里云VPS免费领取经验分享https://youtu.be/jBC8h6fkRZw
+74：2020年SSR免费机场推荐第一弹https://youtu.be/m6JF5YpG5SQ
+75：Trojan搭建攻略与节点全平台使用教程https://youtu.be/xMz3odzXgKo
+76：苹果手机shadowrocket和Kitsunebi科学上网应用免费下载https://youtu.be/ci0dv6wz4Xk
+77:Docker一键搭建V2ray+ws+Tls科学上网节点https://youtu.be/ikZb9J6jgPU
+78：2020最新V2ray+WS+TL一键四合一安装教程Shttps://youtu.be/92SAji0lzcs
+类别
+教育
+66 条评论
+肖平
+发表公开评论…
+Siemens Tutorials
+已由Siemens Tutorials置顶
+Siemens Tutorials
+1 天前（修改过）
+【欢迎订阅我的频道，谢谢】
+【我的使用的节点服务站1：https://is.gd/rNJPqX】
+【我的使用的节点服务站2：https://60ss.xyz】
+【视频中的一键安装脚本】
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh" && chmod +x install.sh && bash install.sh
+
+
+启动方式
+启动 V2ray：systemctl start v2ray
+
+停止 V2ray：systemctl stop v2ray
+
+
+启动 Nginx：systemctl start nginx
+
+
+停止 Nginx：systemctl stop nginx
+
+
+V2ray 服务端配置：/etc/v2ray/config.json
+
+
+V2ray 客户端配置: ~/v2ray_info.txt
