@@ -6,7 +6,7 @@
 
 2.https://www.fj016.xyz/邮箱无（搜索引擎）https://fj050.xyz/（另一个首页网站）https://fj999.me（防屏蔽网站）
 
-3.https://xgao5.com/邮箱caoporn@gmail.com或者dizhi@ilovegao.com
+3.https://xcao10.com/index.php邮箱caoporn@gmail.com或者dizhi@ilovegao.com
 
 4.www.888la.top邮箱lhui2223@gmail.com
 
